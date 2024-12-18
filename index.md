@@ -35,11 +35,9 @@ Learn from our data science workshops and training programs to build skills for 
 
 ---
 
+<!--
 ## Contact {#contact}
 We'd love to hear from you! 
 
 Contact us at [info@socialdatascience.org](mailto:info@socialdatascience.org)
-
----
-
-{% include footer.html %}
+-->
