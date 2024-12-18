@@ -1,0 +1,11 @@
+title: "The Social Data Science Alliance"
+description: "Supporting research through the Digital Services Act of the European Union for the benefit of society."
+baseurl: "" # Leave blank for GitHub Pages
+url: "https://social-data-science-alliance.github.io"
+theme: minima
+plugins:
+  - jekyll-sitemap
+
+markdown: kramdown
+kramdown:
+  input: GFM
