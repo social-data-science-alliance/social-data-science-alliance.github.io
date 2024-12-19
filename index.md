@@ -3,10 +3,10 @@ layout: default
 title: Home
 ---
 
+<!--
 <section class="hero">
-    <h2>Data for Social Good</h2>
-    <p>At The Social Data Science Alliance, we believe in the power of data to drive social change. 
-        Our mission is to empower communities with accessible, ethical, and impactful data science initiatives.</p>
+    <h2>Who are we?</h2>
+    <p>The Social Data Science Alliance is an initiative started by members of the Social Media Governance Project at the Global Partnership on AI.</p>
     <a href="#contact" class="btn">Join Us</a>
 </section>
 
@@ -24,41 +24,37 @@ title: Home
         <p>Learn from our data science workshops and training programs to build skills for the future.</p>
     </div>
 </section>
+-->
 
-## Founding supporters
+<section id="features" class="features">
+    <div class="feature">
+        <h3>How did SoDSA begin?</h3>
+        <p>The Social Data Science Alliance is an initiative started by members of the Social Media Governance Project at the Global Partnership on AI.</p>
+    </div>
+    <div class="feature">
+        <h3>Who are we?</h3>
+        <p>See the list of <a href="/members/">founding supporters</a>.</p>
+        <a href="#contact" class="btn">Join Us</a>
+    </div>
+</section>
 
-- Ali Knott
-- Dino Pedreschi
-- Susan Leavy
-- Tapabrata Chakraborty
-- Adrian Weller, Director of Research in Machine Learning, University of Cambridge; Head of Safe and Ethical AI, Alan Turing Institute
-- Amir Banifatemi, co-founder of the AI Commons Initiative, co-founder of the AI for Good Global Summit, co-lead of the Global Partnership on AI’s Responsible AI Working Group
-- Ricardo Baeza-Yates, Northeastern University, ACM Fellow, IEEE Fellow, Chilean Academy of Sciences, Chilean Academy of Engineering, IEEE Ethics Committee
-- Przemyslaw Biecek, leader of research group MI2.AI, professor at University of Warsaw
-- David Eyers, Centre for AI and Public Policy, University of Otago
-- Andrew Trotman, Centre for AI and Public Policy, University of Otago
-- Toshiya Jitsuzumi, Professor, Chuo University
-- Paul Teal, Director, Victoria University of Wellington, Signal Research Limited
-- Tom Lenaerts (VUB)
-- Sundar Sundareswaran
-- Ivan Bratko
-- Valentina Pansanella
-- Virginia Morini
-- Subhadip Basu
-- Hisham Eldai
-- Praveen Bushipaka
-- Lukas Seiling (DSA40 Collaboratory)
-- Debbie Ging (Director of the Institute for Research on Genders and Sexualites, Dublin City University, Ireland)
-- Jonathan Stray (UC Berkeley, Center for Human-Compatible AI)
-- ?David Hartmann (Weizenbaum Institute, TU-Berlin)
-- Luca de Biase (journalist and writer, Director of the Media Ecology Research network at Reimagine Europa, professor at LUISS University, Rome)
-- Markus Luczak-Roesch (Professor of Informatics, Chair in Complexity Science, Victoria University of Wellington)
-- Martin Husovec (LSE Law School, Digital Services Act Hub)
-- Jeff Allen (Integrity Institute)
-- Fujio Toriumi, Professor of the Graduate School of Engineering, The University of Tokyo
-- Przemyslaw Grabowicz (University College Dublin)
+## Social Data Science research facilitated by the EU's DSA
 
-## Contact {#contact}
-We'd love to hear from you! 
+The EU’s Digital Services Act (DSA) provides new mechanisms for vetted external researchers to access ‘Very Large Online Platforms’ (VLOPs), to allow independent study of possible risks they pose to users and communities in EU countries, and the study of methods for mitigating risks that are identified. This new legislation creates a unique opportunity for a new public science of digital technology impacts. But to fully realise this opportunity, new organisational structures for researchers are needed: to coordinate applications for research projects, to communicate results of work already conducted or currently under way, to suggest useful work that could be done, to convey information about methods that can be used, and to formulate policy advice based on research findings. We are setting up a new scientific organisation to help with these tasks: the Social Data Science Alliance. In this document, we outline the purpose of this new organisation.
+
+The DSA provides two new types of access. One is to auditors, for the purpose of checking compliance with DSA regulations. The rules governing audits are set out in a Delegated Act of the DSA: they give auditors broad powers to access platform data and algorithms, and to conduct experiments. The other type of access is to vetted external researchers, in particular through Article 40(4). The Delegated Act defining this kind of access is still being finalised, but the core purpose of this access is to conduct new studies into societal risks associated with VLOPs, and to gauge the effectiveness of any risk mitigation measures already in place. Researcher access to VLOPs is crucial for these purposes, because the best experimental designs for the questions to be answered very often make use of data or methods that are only available within platforms. The brief for researchers is necessarily broader than that of auditors, because researchers are not assessing compliance against a finite checklist of obligations: their brief is to identify risks of VLOPs for users and society, and thus in some sense to define the detailed checklist for auditors’ assessments. 
+
+In this note, our interest is in the structures that are needed to organise and coordinate an effective programme of research into VLOPs, under the auspices of the DSA. What is required—and what the DSA must enable—is a structured programme of research, rather than a piecemeal collection of individual research efforts. 
+
+The processes through which applications for DSA-enabled research access are vetted and approved have already received some attention. Decisions will ultimately be made by the Digital Services Coordinators (DSCs) of individual member states, but there will of course be an advisory mechanism too. There will likely be a body that receives applications for access from groups of researchers, to conduct specified projects, and advises DSCs of the projects that most effectively pursue the DSA’s objectives, using the best scientific methods, and in compliance with agreed ethical standards. This body will have some of the functions of a grant-awarding institution, assessing the quality of research proposals and research teams: access to VLOPs is necessarily a scarce resource, just like research funds. Plans are already under way to create a body with this role. The European Digital Media Observatory (EDMO) has convened a working group to design an ‘Independent Intermediary Body’ (IIB) to support DSA-enabled research on VLOPs. This body is envisaged to have several roles - in particular, to ‘safeguard the independence of research’, and to ‘ease the legal liabilities’ of platforms which share data, and to ‘mediate disputes’ between companies and researchers. A key function of the proposed body would be to ‘vet researchers and their research proposals’. Given that this body advises on the detail of access to VLOPs, it is expected to contain members from VLOPs, as well as members from the community of independent researchers. 
+
+We suggest there is a need for a second body, alongside the IIB, to represent and support the community of researchers who apply for DSA-enabled access to VLOPs. The purpose of this second body would be to coordinate applications, to communicate results of work already conducted or currently under way (within the guidelines laid down for access, naturally), to suggest useful work that could be conducted under the DSA, to convey information about the methods that are available within companies (again, within the established guidelines), and the legal frameworks that allow access under the DSA, and to formulate policy advice based on the body of research findings. In sum, the body’s role would be to help organise the new science that’s enabled by the DSA. This task is the natural province of the research community: as such it would involve the convening of research meetings and methods workshops, processes of scientific review, and the publication of edited research collections, or perhaps the foundation of a new dedicated journal, or set of web resources. 
+
+There are many existing research organisations that could provide helpful input into a grouping of this kind. On the AI and technology side, groups like EurAI and AAAI have relevant expertise. The AAAI conference on Web and Social Media is particularly relevant. Social media research expertise could also come from ICSMS, and social science expertise from organisations like ICRBS and IOSSBR. The DSA40 Data Access Collaboratory at the Weizenbaum Institute is already gathering information about applications made under the DSA, and will certainly be an important partner.  EDMO can provide expertise in areas relating to disinformation, and wider political impacts. For impacts on mental health, and health more generally, guidance can be sought from the WHO (for instance, the Pan-European Mental Health Coalition), and from NIMH and similar groups. However, we believe there is a role for a new organisation, that coordinates research efforts across these diverse domains, with a specific focus on DSA-enabled research.  
+
+We intend to found an organisation with the mission just outlined. We will call the new organisation the ‘Social Data Science Alliance’.
+
+## Contact
+We'd love to hear from you!
 
 Contact us at [sodsa@googlegroups.com](mailto:sodsa@googlegroups.com)
