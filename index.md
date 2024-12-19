@@ -29,5 +29,4 @@ title: Home
 ## Contact {#contact}
 We'd love to hear from you! 
 
-Contact us at [info@socialdatascience.org](mailto:info@socialdatascience.org)
--->
+Contact us at [sodsa@googlegroups.com](mailto:sodsa@googlegroups.com)
