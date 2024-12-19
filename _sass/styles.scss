@@ -1,9 +1,11 @@
 // General Reset
+/*
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
+    */
 
 body {
     font-family: 'Roboto', sans-serif;
@@ -11,12 +13,16 @@ body {
     color: #333;
     background-color: #f4f4f9;
     overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+    
 }
 
 header {
     background-color: #4A90E2;
     color: #fff;
     text-align: center;
+    margin: 0;
     padding: 2rem 0;
 }
 
@@ -66,11 +72,10 @@ nav a:hover {
     margin-right: auto;
 }
 
-/*
 main {
-    text-align: center;
-    padding: 3rem 2rem;
-    background-color: #fff;
+    // text-align: center;
+    padding: 1rem 2rem;
+//    background-color: #fff;
 }
 
 main h1 {
@@ -87,7 +92,6 @@ main p {
     color: #555;
     margin-bottom: 2rem;
 }
-    */
 
 .btn {
     display: inline-block;
@@ -108,7 +112,7 @@ main p {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    padding: 3rem 2rem;
+    //padding: 3rem 2rem;
 }
 
 .feature {
