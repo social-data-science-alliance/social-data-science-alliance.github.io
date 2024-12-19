@@ -10,30 +10,32 @@ Empowering communities through data-driven insights.
 
 ---
 
+<section class="hero">
+
 ## Data for Social Good
 At The Social Data Science Alliance, we believe in the power of data to drive social change. 
 Our mission is to empower communities with accessible, ethical, and impactful data science initiatives.
 
 [Join Us](#contact){: .btn}
 
----
+</section>
 
 ## Features {#features}
 
+<div class="feature">
 ### Community-Focused Projects
 Collaborate with communities to solve real-world problems using data-driven approaches.
+</div>
 
----
-
+<div class="feature">
 ### Open Data Advocacy
 Promote the use of open data for transparency, accountability, and social impact.
+</div>
 
----
-
+<div class="feature">
 ### Education & Training
 Learn from our data science workshops and training programs to build skills for the future.
-
----
+</div>
 
 <!--
 ## Contact {#contact}

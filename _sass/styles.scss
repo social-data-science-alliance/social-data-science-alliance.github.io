@@ -45,6 +45,27 @@ nav a:hover {
     text-decoration: underline;
 }
 
+.hero {
+    text-align: center;
+    padding: 3rem 2rem;
+    background-color: #fff;
+}
+
+.hero h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: #333;
+}
+
+.hero p {
+    font-size: 1rem;
+    color: #555;
+    margin-bottom: 2rem;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 main {
     text-align: center;
     padding: 3rem 2rem;
@@ -79,6 +100,35 @@ main p {
 
 .btn:hover {
     background-color: #357ABD;
+}
+
+.features {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 3rem 2rem;
+}
+
+.feature {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    margin: 1rem;
+    padding: 2rem;
+    text-align: center;
+    max-width: 300px;
+    flex: 1;
+}
+
+.feature h3 {
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+    color: #333;
+}
+
+.feature p {
+    font-size: 0.95rem;
+    color: #555;
 }
 
 footer {
