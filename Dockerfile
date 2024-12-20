@@ -17,5 +17,7 @@ RUN bundle install
 WORKDIR /site
 
 EXPOSE 4000
+# LiveReload service
+EXPOSE 35729
 
 CMD ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0", "--livereload"]
