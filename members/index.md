@@ -17,7 +17,7 @@ title: Members
 - Andrew Trotman, Centre for AI and Public Policy, University of Otago
 - Toshiya Jitsuzumi, Professor, Chuo University
 - Paul Teal, Director, Victoria University of Wellington, Signal Research Limited
-- Tom Lenaerts (VUB)
+- Tom Lenaerts, VUB
 - Sundar Sundareswaran
 - Ivan Bratko
 - Valentina Pansanella
@@ -25,13 +25,13 @@ title: Members
 - Subhadip Basu
 - Hisham Eldai
 - Praveen Bushipaka
-- Lukas Seiling (DSA40 Collaboratory)
-- Debbie Ging (Director of the Institute for Research on Genders and Sexualites, Dublin City University, Ireland)
-- Jonathan Stray (UC Berkeley, Center for Human-Compatible AI)
-- ?David Hartmann (Weizenbaum Institute, TU-Berlin)
-- Luca de Biase (journalist and writer, Director of the Media Ecology Research network at Reimagine Europa, professor at LUISS University, Rome)
-- Markus Luczak-Roesch (Professor of Informatics, Chair in Complexity Science, Victoria University of Wellington)
-- Martin Husovec (LSE Law School, Digital Services Act Hub)
-- Jeff Allen (Integrity Institute)
+- Lukas Seiling, DSA40 Collaboratory
+- Debbie Ging, Director of the Institute for Research on Genders and Sexualites, Dublin City University, Ireland
+- Jonathan Stray, UC Berkeley, Center for Human-Compatible AI
+- ?David Hartmann, Weizenbaum Institute, TU-Berlin
+- Luca de Biase, journalist and writer, Director of the Media Ecology Research network at Reimagine Europa, professor at LUISS University, Rome
+- Markus Luczak-Roesch, Professor of Informatics, Chair in Complexity Science, Victoria University of Wellington
+- Martin Husovec, LSE Law School, Digital Services Act Hub
+- Jeff Allen, Integrity Institute
 - Fujio Toriumi, Professor of the Graduate School of Engineering, The University of Tokyo
-- Przemyslaw Grabowicz (University College Dublin)
+- Przemyslaw Grabowicz, University College Dublin
