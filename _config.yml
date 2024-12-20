@@ -12,3 +12,8 @@ sass:
 markdown: kramdown
 kramdown:
   input: GFM
+
+exclude:
+  - Dockerfile
+  - docker-compose.yml
+  - Gemfile
