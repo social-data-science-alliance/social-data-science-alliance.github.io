@@ -13,7 +13,7 @@ COPY Gemfile /usr/src/app/Gemfile
 
 RUN bundle install
 
-WORKDIR /site
+WORKDIR /workspace
 
 EXPOSE 4001
 EXPOSE 35729
