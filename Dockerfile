@@ -1,5 +1,4 @@
-ARG TARGETPLATFORM
-FROM --platform=$TARGETPLATFORM ruby:3.2
+FROM ruby:3.2
 
 WORKDIR /usr/src/app
 
