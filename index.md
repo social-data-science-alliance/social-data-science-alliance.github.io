@@ -28,7 +28,7 @@ title: Home
 
 <section id="features" class="features">
     <div class="feature">
-        <h3>How did SoDSA begin?</h3>
+        <h3>How did SDSA begin?</h3>
         <p>The Social Data Science Alliance is an initiative started by members of the Social Media Governance Project at the Global Partnership on AI.</p>
     </div>
     <div class="feature">
@@ -57,4 +57,4 @@ We intend to found an organisation with the mission just outlined. We will call 
 ## Contact
 We'd love to hear from you!
 
-Contact us at [sodsa@googlegroups.com](mailto:sodsa@googlegroups.com)
+Contact us at [social-data-science-alliance@googlegroups.com](mailto:social-data-science-alliance@googlegroups.com)
