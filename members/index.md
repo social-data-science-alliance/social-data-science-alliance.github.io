@@ -23,12 +23,11 @@ title: Members
 - [Przemyslaw Grabowicz](https://people.ucd.ie/przemek.grabowicz) (University College Dublin)
 - [Fosca Giannotti](https://www.sns.it/en/persona/fosca-giannotti) (Professor of AI, Scuola Normale Superiore, Italy, ERC Grantee in explainable AI, Lead of KDD Lab - Knowledge Discovery and Data Mining Laboratory)
 - [Roberto Trasarti](https://kdd.isti.cnr.it/people/trasarti-roberto?page=3) (Senior Researcher at the Italian National Research Council, Coordinator of SoBigData, EU's Research Infrastructure for Big Data and Social Mining)
-- SoBigData
 - [Elizabeth Farries](https://digitalpolicy.ie/people/elizabeth-farries/) (Co-Director of UCD Centre for Digital Policy, University College Dublin)
 - [Eugenia Siapera](https://people.ucd.ie/eugenia.siapera) (Professor of Information and Communication Studies and Co-Director of the UCD Centre for Digital Policy, University College Dublin)
-- [Sundar Sundareswaran](https://bootstraplabs.com/community/sundar-sundareswaran/) (AI Entrepreneur)
+- [Sundar Sundareswaran](https://bootstraplabs.com/community/sundar-sundareswaran/) (AI entrepreneur)
 - [Valentina Pansanella](https://www.isti.cnr.it/en/about/people-detail/850/Valentina_Pansanella) (Italian National Research Council)
-- [Virginia Morini](https://phd-ai-society.di.unipi.it/students/virginia-morini/) (PhD Candidate, University of Pisa)
+- [Virginia Morini](https://phd-ai-society.di.unipi.it/students/virginia-morini/) (PhD candidate, University of Pisa)
 - Subhadip Basu
 
 [//]: # - ?David Hartmann, Weizenbaum Institute, TU-Berlin
