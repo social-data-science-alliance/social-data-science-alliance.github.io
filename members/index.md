@@ -16,7 +16,7 @@ title: Members
 - [David Eyers](https://www.otago.ac.nz/school-of-computing/our-people/david_eyers) (Centre for AI and Public Policy, University of Otago)
 - [Andrew Trotman](https://www.otago.ac.nz/school-of-computing/our-people/andrew_trotman) (Centre for AI and Public Policy, University of Otago)
 - [Toshiya Jitsuzumi](https://c-research.chuo-u.ac.jp/html/100003383_en.html) (Professor, Chuo University)
-- Paul Teal (Victoria University of Wellington, Signal Research Limited)
+- Paul Teal (Victoria University of Wellington, Director, Signal Research Limited)
 - [Luca de Biase](https://re-imagine.eu/bio/luca-de-biase) (Journalist and writer, Director of the Media Ecology Research network at Reimagine Europa, Professor at LUISS University, Rome)
 - [Markus Luczak-Roesch](https://people.wgtn.ac.nz/markus.luczak-roesch) (Professor of Informatics, Chair in Complexity Science, Victoria University of Wellington)
 - [Filippo Menczer](https://cnets.indiana.edu/fil) (Distinguished Professor, Luddy Professor of Informatics and Computer Science, and Director of the Observatory on Social Media at Indiana University)
