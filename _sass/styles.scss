@@ -157,3 +157,15 @@ footer a {
 footer a:hover {
     text-decoration: underline;
 }
+
+/* menu highlighting */
+body.url .menu-item,
+body.url-mission .menu-item-mission,
+body.url-history .menu-item-history,
+body.url-members .menu-item-members,
+body.url-constitution .menu-item-constitution,
+body.url-apply .menu-item-apply
+{
+    background-color: #f0f0f0;
+    color: #333;
+}
