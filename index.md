@@ -34,7 +34,7 @@ title: Home
     <div class="feature">
         <h3>Who are we?</h3>
         <p>See the list of <a href="/members/">founding supporters</a>.</p>
-        <a href="#contact" class="btn">Join Us</a>
+        <a href="/apply/" class="btn">Apply for SDSA membership.</a>
     </div>
 </section>
 
@@ -53,8 +53,3 @@ We suggest there is a need for a second body, alongside the IIB, to represent an
 There are many existing research organisations that could provide helpful input into a grouping of this kind. On the AI and technology side, groups like EurAI and AAAI have relevant expertise. The AAAI conference on Web and Social Media is particularly relevant. Social media research expertise could also come from ICSMS, and social science expertise from organisations like ICRBS and IOSSBR. The DSA40 Data Access Collaboratory at the Weizenbaum Institute is already gathering information about applications made under the DSA, and will certainly be an important partner. The DSA Observatory at the University of Amsterdam is also doing very related work. EDMO can provide expertise in areas relating to disinformation, and wider political impacts. For impacts on mental health, and health more generally, guidance can be sought from the WHO (for instance, the Pan-European Mental Health Coalition), and from NIMH and similar groups. However, we believe there is a role for a new organisation, that coordinates research efforts across these diverse domains, with a specific focus on DSA-enabled research.  
 
 We intend to found an organisation with the mission just outlined. We will call the new organisation the ‘Social Data Science Alliance’.
-
-## Contact
-We'd love to hear from you!
-
-Contact us at [social-data-science-alliance@googlegroups.com](mailto:social-data-science-alliance@googlegroups.com)
