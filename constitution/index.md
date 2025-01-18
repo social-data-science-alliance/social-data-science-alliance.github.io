@@ -25,7 +25,7 @@ For clarity:
 ### 2. Membership
 The SDSA is open to all researchers who are participating in DSA-enabled research projects, or who plan to apply for DSA-enabled research projects. These members must belong to a ‘research organisation’, as defined in Article 2, point (1), of Directive (EU) 2019/790: broadly speaking, a university or research institute. 
 
-The SDSA is also open to experts who wish to assist in the development of proposals for DSA-enabled research projects. These experts can be researchers, or members of civil society groups, or other stakeholders with useful perspectives on VLOP risks / mitigation mechanisms. 
+The SDSA is also open to anyone interested in democratic governance of tech platforms, who wishes to assist in the development of proposals for DSA-enabled research projects, or other legally mandated projects involving access to VLOPs. This includes researchers, members of civil society groups, journalists, or other stakeholders with useful perspectives on VLOP risks / mitigation mechanisms.
 
 To avoid conflicts of interest, membership is not open to employees of VLOPs, or to people who are currently involved in vetting proposals for DSA-enabled access to VLOPs. But we wish to have a productive relationship with these two groups, and we invite them to participate at events (see Section 3 below). 
 
