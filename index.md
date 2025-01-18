@@ -3,29 +3,6 @@ layout: default
 title: Home
 ---
 
-<!--
-<section class="hero">
-    <h2>Who are we?</h2>
-    <p>The Social Data Science Alliance is an initiative started by members of the Social Media Governance Project at the Global Partnership on AI.</p>
-    <a href="#contact" class="btn">Join Us</a>
-</section>
-
-<section id="features" class="features">
-    <div class="feature">
-        <h3>Community-Focused Projects</h3>
-        <p>Collaborate with communities to solve real-world problems using data-driven approaches.</p>
-    </div>
-    <div class="feature">
-        <h3>Open Data Advocacy</h3>
-        <p>Promote the use of open data for transparency, accountability, and social impact.</p>
-    </div>
-    <div class="feature">
-        <h3>Education & Training</h3>
-        <p>Learn from our data science workshops and training programs to build skills for the future.</p>
-    </div>
-</section>
--->
-
 <section id="features" class="features">
     <div class="feature">
         <h3>How did SDSA begin?</h3>
